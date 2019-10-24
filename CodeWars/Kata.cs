@@ -2,7 +2,7 @@
 
 namespace CodeWars
 {
-    public class MinMax
+    public class Kata
     {
     }
 }

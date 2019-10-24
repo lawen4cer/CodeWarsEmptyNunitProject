@@ -1,0 +1,6 @@
+C:\Users\billy\Desktop\codewars\CodeWars\bin\Debug\netstandard2.0\CodeWars.deps.json
+C:\Users\billy\Desktop\codewars\CodeWars\bin\Debug\netstandard2.0\CodeWars.dll
+C:\Users\billy\Desktop\codewars\CodeWars\bin\Debug\netstandard2.0\CodeWars.pdb
+C:\Users\billy\Desktop\codewars\CodeWars\obj\Debug\netstandard2.0\CodeWars.csprojAssemblyReference.cache
+C:\Users\billy\Desktop\codewars\CodeWars\obj\Debug\netstandard2.0\CodeWars.dll
+C:\Users\billy\Desktop\codewars\CodeWars\obj\Debug\netstandard2.0\CodeWars.pdb
